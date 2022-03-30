@@ -20,3 +20,5 @@ print(sum(map(len, dict.values())))
 
 #liczenie kluczy
 print(len(dict.keys()))
+
+print(f"Wchodzę do {len(dict.keys())} sklepów")
