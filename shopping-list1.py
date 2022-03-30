@@ -17,3 +17,6 @@ print(f"W sumie kupuję {total} rzeczy")
 #albo
 
 print(sum(map(len, dict.values())))
+
+#liczenie kluczy
+print(len(dict.keys()))
